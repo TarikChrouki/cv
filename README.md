@@ -1,6 +1,6 @@
 # Tarik Chrouki
 
-_Senior Software Engineer Java/Kafka | Confluent Certified Developer for Apache Kafka (CCDAK) <br>
+_Senior Software Engineer Java/Kafka | Confluent Certified Developer for Apache Kafka (CCDAK)_ <br>
 
 [Email](mailto:contact@chrouki.com) / [Website](https://chrouki.com/) / [LinkedIn](https://www.linkedin.com/in/tarikchrouki/) / [GitHub](https://github.com/tarikchrouki/) 
 
@@ -41,14 +41,14 @@ _Senior Software Engineer Java/Kafka | Confluent Certified Developer for Apache 
   - Préparation et participation aux mises en production.
   - Chiffrage, Conception, et développement de demandes d’évolutions.
    - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Jaxb, Dozer, Solr,Ehcache, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript, Servlet, JSP.<br><br>
-***Lead Développeur JAVA JEE/Tapestry/Liferay.***_(Juin 2014 - Mars 2015) pour [Groupe Damart (Fr/Uk/Us)](https://www.damart.fr/)
+***Lead Développeur JAVA JEE/Tapestry/Liferay.***_(Juin 2014 - Mars 2015)_ pour [Groupe Damart (Fr/Uk/Us)](https://www.damart.fr/)
 - Optimisation des performances Liferay du temps de réponse sur l’ensemble des sites Damart (Fr/Uk/Us).
 - Mise en place d’une application externe avec solr-web Liferay au lieu de lucene natif fourni par liferay.
 - Développement de la gestion de paiement avec les différents partenaires selon le choix de paiement et le site.
 - Support et conseils techniques aux équipes.
 - Chiffrage, Conception, et développement de demandes d’évolutions.
 - **_Technologies:_** Java, Liferay, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript.<br><br>
-***Lead Développeur Java JEE/Tapestry.*** _(Jan. 2014 - Mai 2014) pour [Carrefour Belgique]()
+***Lead Développeur Java JEE/Tapestry.*** _(Jan. 2014 - Mai 2014)_ pour [Carrefour Belgique]()
 - Refonte grapghique du site Carrefour Belgique Drive.
 - Migration des projets sur java7/tomcat7, avec une montée de version majeure des frameworks.
 - Conception d’un nouveau site e-commerce dédiée pour la coupe du monde de football en se basant sur un Core Model.
@@ -56,7 +56,7 @@ _Senior Software Engineer Java/Kafka | Confluent Certified Developer for Apache 
 - Préparation et participation aux mises en production.
 - Chiffrage, Conception, et développement de demandes d’évolutions.
  - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Jenkins, Tomcat/Apache, Ajax, JavaScript, Servlet, JSP.<br><br>
-***Développeur full-stack Java JEE/Tapestry.*** _() pour [Worldline Belgique]()
+***Développeur full-stack Java JEE/Tapestry.*** _()_ pour [Worldline Belgique]()
 - Recueil du besoin client.
 - Chiffrage, Conception, et développement de demandes d’évolutions.
 - Rédaction des livrables (spécifications, cahier de recettes, etc.)
