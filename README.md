@@ -6,6 +6,11 @@ _9 ans d’expériences_
 
 [Email](mailto:contact@chrouki.com) / [Website](https://chrouki.com/) / [LinkedIn](https://www.linkedin.com/in/tarikchrouki/) / [GitHub](https://github.com/tarikchrouki/) 
 
+## 🏆 Certifications
+- Confluent Certified Developer for Apache Kafka (CCDAK) [Confluent](https://www.credential.net/286034aa-6505-4bd5-a7c5-468fae8b4621#gs.3kuzds)
+- GitLab Certified Associate [Gitlab](https://gitlab.badgr.com/public/assertions/bUe5saFBT8Souff7dtr89Q)
+- Apache Kafka Fundamentals [Confluent](https://www.credential.net/e596d6cc-7cb6-489b-a694-b2f18de4e97a#gs.3kv2n6)
+
 ## 👨‍💻 Expérience
 
 **Senior Software Engineer** @ [mimacom](https://www.mimacom.com/fr/) _(Juil. 2020 - Present)_ <br>
@@ -33,8 +38,8 @@ _9 ans d’expériences_
   - **_Technologies:_**  Grails 3, Spring Boot, Apache Kafka, Docker, Java 8, Groovy, REST, JSON, Gradle, Oracle, H2, Spock, Geb, JasperReports/iReport, XML/XSD, Jaxb, Git, Clover, Sonar, TeamCity, Bootstrap 3 \& 2, Ajax, JQuery, JavaScript.
     <br><br>
 
-**Lead Developer** @ [Worldline Global](https://fr.worldline.com/) _(Sept. 2012 - Avril 2016)_ <br><br>
-***Lead Développeur/Référent Technique JAVA JEE/Tapestry.*** _(Avr. 2015 - Avr. 2016) pour [Carrefour](https://www.carrefour.fr/)
+**Lead Developer/Référent Technique JAVA JEE** @ [Worldline Global](https://fr.worldline.com/) _(Sept. 2012 - Avril 2016)_ <br><br>
+>***Lead Développeur/Référent Technique JAVA JEE/Tapestry.*** _(Avr. 2015 - Avr. 2016)_ pour [Carrefour](https://www.carrefour.fr/)
   - Prise en charge d’une équipe de 4 à 10 développeurs pour : Formation, accompagnement technique, revue de code et organisation de bilans techniques suite aux releases réalisées.
   - Implémentation de la gestion de cagnotte fidélité pendant les étapes du processus de paiement de la commande.
   - Mise en place de gestion des coupons sur l’application frontale et back-office, en se basant sur un bridge de communication avec un moteur de règles.
@@ -43,14 +48,14 @@ _9 ans d’expériences_
   - Préparation et participation aux mises en production.
   - Chiffrage, Conception, et développement de demandes d’évolutions.
    - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Jaxb, Dozer, Solr,Ehcache, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript, Servlet, JSP.<br><br>
-***Lead Développeur JAVA JEE/Tapestry/Liferay.***_(Juin 2014 - Mars 2015)_ pour [Groupe Damart (Fr/Uk/Us)](https://www.damart.fr/)
+>***Lead Développeur JAVA JEE/Tapestry/Liferay.*** _(Juin 2014 - Mars 2015)_ pour [Groupe Damart (Fr/Uk/Us)](https://www.damart.fr/)
 - Optimisation des performances Liferay du temps de réponse sur l’ensemble des sites Damart (Fr/Uk/Us).
 - Mise en place d’une application externe avec solr-web Liferay au lieu de lucene natif fourni par liferay.
 - Développement de la gestion de paiement avec les différents partenaires selon le choix de paiement et le site.
 - Support et conseils techniques aux équipes.
 - Chiffrage, Conception, et développement de demandes d’évolutions.
 - **_Technologies:_** Java, Liferay, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript.<br><br>
-***Lead Développeur Java JEE/Tapestry.*** _(Jan. 2014 - Mai 2014)_ pour [Carrefour Belgique]()
+>***Lead Développeur Java JEE/Tapestry.*** _(Jan. 2014 - Mai 2014)_ pour [Carrefour Belgique]()
 - Refonte grapghique du site Carrefour Belgique Drive.
 - Migration des projets sur java7/tomcat7, avec une montée de version majeure des frameworks.
 - Conception d’un nouveau site e-commerce dédiée pour la coupe du monde de football en se basant sur un Core Model.
@@ -58,7 +63,7 @@ _9 ans d’expériences_
 - Préparation et participation aux mises en production.
 - Chiffrage, Conception, et développement de demandes d’évolutions.
  - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Jenkins, Tomcat/Apache, Ajax, JavaScript, Servlet, JSP.<br><br>
-***Développeur full-stack Java JEE/Tapestry.*** _()_ pour [Worldline Belgique]()
+>***Développeur full-stack Java JEE/Tapestry.*** _(Sept. 2012 - Déc 2013)_ pour [Worldline Belgique]()
 - Recueil du besoin client.
 - Chiffrage, Conception, et développement de demandes d’évolutions.
 - Rédaction des livrables (spécifications, cahier de recettes, etc.)
