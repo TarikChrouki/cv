@@ -1,6 +1,6 @@
 # Tarik Chrouki
 
-_Senior Software Engineer Java/Kafka | Confluent Certified Developer for Apache Kafka (CCDAK)_ <br>
+_Senior Software Engineer Java/Kafka_ | _Confluent Certified Developer for Apache Kafka (CCDAK)_ <br>
 
 [Email](mailto:contact@chrouki.com) / [Website](https://chrouki.com/) / [LinkedIn](https://www.linkedin.com/in/tarikchrouki/) / [GitHub](https://github.com/tarikchrouki/) 
 
