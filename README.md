@@ -1,17 +1,19 @@
 # Tarik Chrouki
 
-_Senior Software Engineer Java/Kafka_ | _Confluent Certified Developer for Apache Kafka (CCDAK)_ <br>
+_Senior Software Engineer Java/Kafka_ <br>
+_Confluent Certified Developer for Apache Kafka (CCDAK)_ <br>
+_9 ans d’expériences_
 
 [Email](mailto:contact@chrouki.com) / [Website](https://chrouki.com/) / [LinkedIn](https://www.linkedin.com/in/tarikchrouki/) / [GitHub](https://github.com/tarikchrouki/) 
 
-## 👩🏼‍💻 Expérience
+## 👨‍💻 Expérience
 
 **Senior Software Engineer** @ [mimacom](https://www.mimacom.com/fr/) _(Juil. 2020 - Present)_ <br>
 
-<br><br>
+<br>
 
 **Architecte Logiciel - Technical Lead Java/JEE, Angular au Lab Factory** @ [Orange](https://wholesalefrance.orange.fr/fr/) _(Mars 2019 - Juin 2020)_ <br>
-  - Collaborer avec les différents acteurs des autres services ( Architectes, Responsable Infrastructure, Chefs de projets, Product Owner...) pour appréhender le contexte fonctionnel et technique, afin de proposer les solutions techniques les plus adaptées et pérennes.
+  - Collaborer avec les différents acteurs des autres services (Architectes, Responsable Infrastructure, Chefs de projets, Product Owner...) pour appréhender le contexte fonctionnel et technique, afin de proposer les solutions techniques les plus adaptées et pérennes.
   - Participer aux développements et à l’implémentation des solutions, notamment sur les phases sensibles du développement en tant que référent technique.
   - Garantir la qualité technique et de développement des fonctionnalités.
   - Accompagner et encadrer techniquement les équipes de développement.
@@ -78,7 +80,7 @@ _Senior Software Engineer Java/Kafka_ | _Confluent Certified Developer for Apach
 **Arabe**: Maternelle
 <br><br>
 
-## 👩🏼‍🎓 Formations
+## 👨‍🎓 Formations
 
 **Diplôme d’ingénieur en informatique** École Nationale d’Ingénieurs de Brest<br>
-[Enib](https://www.enib.fr/fr/) - Brest,France. _(2010 - 2013)_ <br>
+[ENIB](https://www.enib.fr/fr/) - Brest,France. _(2010 - 2013)_ <br>
