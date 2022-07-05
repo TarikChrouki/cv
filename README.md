@@ -39,7 +39,7 @@ _9 ans d’expériences_
     <br><br>
 
 **Lead Developer/Référent Technique JAVA JEE** @ [Worldline Global](https://fr.worldline.com/) _(Sept. 2012 - Avril 2016)_ <br><br>
->***Lead Développeur/Référent Technique JAVA JEE/Tapestry.*** _(Avr. 2015 - Avr. 2016)_ pour [Carrefour](https://www.carrefour.fr/)
+>***Lead Développeur/Référent Technique JAVA JEE/Tapestry.*** _(Avr. 2015 - Avr. 2016)_ pour [Carrefour](https://www.carrefour.fr/) 
 - Prise en charge d’une équipe de 4 à 10 développeurs pour : Formation, accompagnement technique, revue de code et organisation de bilans techniques suite aux releases réalisées.
 - Implémentation de la gestion de cagnotte fidélité pendant les étapes du processus de paiement de la commande.
 - Mise en place de gestion des coupons sur l’application frontale et back-office, en se basant sur un bridge de communication avec un moteur de règles.
