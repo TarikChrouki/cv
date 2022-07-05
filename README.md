@@ -17,7 +17,7 @@ _9 ans d’expériences_
 
 <br>
 
-**Architecte Logiciel - Technical Lead Java/JEE, Angular au Lab Factory** @ [Orange](https://wholesalefrance.orange.fr/fr/) _(Mars 2019 - Juin 2020)_ <br>
+**Architecte Logiciel - Technical Lead Java/JEE, Angular au Lab Factory**<br> @[Orange](https://wholesalefrance.orange.fr/fr/) _(Mars 2019 - Juin 2020)_ <br>
   - Collaborer avec les différents acteurs des autres services (Architectes, Responsable Infrastructure, Chefs de projets, Product Owner...) pour appréhender le contexte fonctionnel et technique, afin de proposer les solutions techniques les plus adaptées et pérennes.
   - Participer aux développements et à l’implémentation des solutions, notamment sur les phases sensibles du développement en tant que référent technique.
   - Garantir la qualité technique et de développement des fonctionnalités.
@@ -27,7 +27,7 @@ _9 ans d’expériences_
   - **_Technologies:_**  Angular 7, Java 8, Spring boot, Spring Data JPA, Spock , JUnit, Groovy, Maven, Hibernate 5, REST/SOAP, git, GitLab, Jenkins, Sonar, JCache/Ehcache 3.
 <br><br>
 
-**Ingénieur d'etudes et développements JAVA/J2EE, Groovy/Grails** @ [Webb Fontaine](https://webbfontaine.com/) _(Mai 2016 - Févr. 2019)_ <br>
+**Ingénieur d'etudes et développements JAVA/J2EE, Groovy/Grails** <br>@[Webb Fontaine](https://webbfontaine.com/) _(Mai 2016 - Févr. 2019)_ <br>
 
   - Mise en place d'un cluster Apache Kafka sous docker pour gérer les échanges de messages entre différentes applications.
   - Industrialisation et mise en place des tests fonctionnels avec Geb, Selenium, WebDriver et Docker.
@@ -38,8 +38,8 @@ _9 ans d’expériences_
   - **_Technologies:_**  Grails 3, Spring Boot, Apache Kafka, Docker, Java 8, Groovy, REST, JSON, Gradle, Oracle, H2, Spock, Geb, JasperReports/iReport, XML/XSD, Jaxb, Git, Clover, Sonar, TeamCity, Bootstrap 3 \& 2, Ajax, JQuery, JavaScript.
     <br><br>
 
-**Lead Developer/Référent Technique JAVA JEE** @ [Worldline Global](https://fr.worldline.com/) _(Sept. 2012 - Avril 2016)_ <br><br>
->***Lead Développeur/Référent Technique JAVA JEE/Tapestry.*** _(Avr. 2015 - Avr. 2016)_ pour [Carrefour](https://www.carrefour.fr/) 
+**Lead Developer/Référent Technique JAVA JEE** <br>@[Worldline Global](https://fr.worldline.com/) _(Sept. 2012 - Avril 2016)_ <br>
+>***Lead Développeur/Référent Technique JAVA JEE/Tapestry.*** _(Avr. 2015 - Avr. 2016)_ pour [Carrefour](https://www.carrefour.fr/)<br>
 - Prise en charge d’une équipe de 4 à 10 développeurs pour : Formation, accompagnement technique, revue de code et organisation de bilans techniques suite aux releases réalisées.
 - Implémentation de la gestion de cagnotte fidélité pendant les étapes du processus de paiement de la commande.
 - Mise en place de gestion des coupons sur l’application frontale et back-office, en se basant sur un bridge de communication avec un moteur de règles.
@@ -72,7 +72,7 @@ _9 ans d’expériences_
 - **_Technologies:_** Java, JavaScript, Tapestry, Hibernate, MySql, Maven, SVN, CVS, JasperReports/iReport, Jenkins, Tomcat/Apache, Ajax, JavaScript, Servlet, JSP.
 <br><br>    
 
-**Développeur PHP** @ [Orange Business Service](https://www.orange-business.com/fr) _(Fév. 2012 - Juin 2012)_ <br>
+**Développeur PHP** <br>@[Orange Business Service](https://www.orange-business.com/fr) _(Fév. 2012 - Juin 2012)_ <br>
 - Développement d’un outil Web industriel de production et d’industrialisation.
 - Evolution de l’outil afin de le rendre plus robuste, plus ergonomique.
 -  Mise en place de contrôle d’intégrité des données.
