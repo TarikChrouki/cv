@@ -40,44 +40,46 @@ _9 ans d’expériences_
 
 **Lead Developer/Référent Technique JAVA JEE** <br>@[Worldline Global](https://fr.worldline.com/) _(Sept. 2012 - Avril 2016)_ <br>
 
->***Lead Développeur/Référent Technique JAVA JEE/Tapestry.*** _(Avr. 2015 - Avr. 2016)_ pour [Carrefour](https://www.carrefour.fr/)
-- Prise en charge d’une équipe de 4 à 10 développeurs pour : Formation, accompagnement technique, revue de code et organisation de bilans techniques suite aux releases réalisées.
-- Implémentation de la gestion de cagnotte fidélité pendant les étapes du processus de paiement de la commande.
-- Mise en place de gestion des coupons sur l’application frontale et back-office, en se basant sur un bridge de communication avec un moteur de règles.
-- Accompagnement et conseils techniques aux équipes.
-- Revue de code, Gestion des performances et optimisations.
-- Préparation et participation aux mises en production.
-- Chiffrage, Conception, et développement de demandes d’évolutions.
-- **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Jaxb, Dozer, Solr,Ehcache, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript, Servlet, JSP.<br><br>
->***Lead Développeur JAVA JEE/Tapestry/Liferay.*** _(Juin 2014 - Mars 2015)_ pour [Groupe Damart (Fr/Uk/Us)](https://www.damart.fr/)
-- Optimisation des performances Liferay du temps de réponse sur l’ensemble des sites Damart (Fr/Uk/Us).
-- Mise en place d’une application externe avec solr-web Liferay au lieu de lucene natif fourni par liferay.
-- Développement de la gestion de paiement avec les différents partenaires selon le choix de paiement et le site.
-- Support et conseils techniques aux équipes.
-- Chiffrage, Conception, et développement de demandes d’évolutions.
-- **_Technologies:_** Java, Liferay, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript.<br><br>
->***Lead Développeur Java JEE/Tapestry.*** _(Jan. 2014 - Mai 2014)_ pour [Carrefour Belgique]()
-- Refonte grapghique du site Carrefour Belgique Drive.
-- Migration des projets sur java7/tomcat7, avec une montée de version majeure des frameworks.
-- Conception d’un nouveau site e-commerce dédiée pour la coupe du monde de football en se basant sur un Core Model.
-- Support et conseils techniques aux équipes.
-- Préparation et participation aux mises en production.
-- Chiffrage, Conception, et développement de demandes d’évolutions.
- - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Jenkins, Tomcat/Apache, Ajax, JavaScript, Servlet, JSP.<br><br>
->***Développeur full-stack Java JEE/Tapestry.*** _(Sept. 2012 - Déc 2013)_ pour [Worldline Belgique]()
-- Recueil du besoin client.
-- Chiffrage, Conception, et développement de demandes d’évolutions.
-- Rédaction des livrables (spécifications, cahier de recettes, etc.)
-- Préparation et participation aux mises en production.
-- Gestion des phases de recettes.
-- **_Technologies:_** Java, JavaScript, Tapestry, Hibernate, MySql, Maven, SVN, CVS, JasperReports/iReport, Jenkins, Tomcat/Apache, Ajax, JavaScript, Servlet, JSP.
-<br><br>    
+>***Lead Développeur/Référent Technique JAVA JEE/Tapestry.*** _(Avr. 2015 - Avr. 2016)_ pour [Carrefour](https://www.carrefour.fr/)<br>
+
+  - Prise en charge d’une équipe de 4 à 10 développeurs pour : Formation, accompagnement technique, revue de code et organisation de bilans techniques suite aux releases réalisées.
+  - Implémentation de la gestion de cagnotte fidélité pendant les étapes du processus de paiement de la commande.
+  - Mise en place de gestion des coupons sur l’application frontale et back-office, en se basant sur un bridge de communication avec un moteur de règles.
+  - Accompagnement et conseils techniques aux équipes.
+  - Revue de code, Gestion des performances et optimisations.
+  - Préparation et participation aux mises en production.
+  - Chiffrage, Conception, et développement de demandes d’évolutions.
+  - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Jaxb, Dozer, Solr,Ehcache, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript, Servlet, JSP.<br><br>
+>***Lead Développeur JAVA JEE/Tapestry/Liferay.*** _(Juin 2014 - Mars 2015)_ pour [Groupe Damart (Fr/Uk/Us)](https://www.damart.fr/)<br>
+  - Optimisation des performances Liferay du temps de réponse sur l’ensemble des sites Damart (Fr/Uk/Us).
+  - Mise en place d’une application externe avec solr-web Liferay au lieu de lucene natif fourni par liferay.
+  - Développement de la gestion de paiement avec les différents partenaires selon le choix de paiement et le site.
+  - Support et conseils techniques aux équipes.
+  - Chiffrage, Conception, et développement de demandes d’évolutions.
+  - **_Technologies:_** Java, Liferay, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript.<br><br>
+>***Lead Développeur Java JEE/Tapestry.*** _(Jan. 2014 - Mai 2014)_ pour [Carrefour Belgique]()<br>
+  - Refonte grapghique du site Carrefour Belgique Drive.
+  - Migration des projets sur java7/tomcat7, avec une montée de version majeure des frameworks.
+  - Conception d’un nouveau site e-commerce dédiée pour la coupe du monde de football en se basant sur un Core Model.
+  - Support et conseils techniques aux équipes.
+  - Préparation et participation aux mises en production.
+  - Chiffrage, Conception, et développement de demandes d’évolutions.
+  - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Jenkins, Tomcat/Apache, Ajax, JavaScript, Servlet, JSP.<br><br>
+>***Développeur full-stack Java JEE/Tapestry.*** _(Sept. 2012 - Déc 2013)_ pour [Worldline Belgique]()<br>
+  - Recueil du besoin client.
+  - Chiffrage, Conception, et développement de demandes d’évolutions.
+  - Rédaction des livrables (spécifications, cahier de recettes, etc.)
+  - Préparation et participation aux mises en production.
+  - Gestion des phases de recettes.
+  - **_Technologies:_** Java, JavaScript, Tapestry, Hibernate, MySql, Maven, SVN, CVS, JasperReports/iReport, Jenkins, Tomcat/Apache, Ajax, JavaScript, Servlet, JSP.
+
+<br>
 
 **Développeur PHP** <br>@[Orange Business Service](https://www.orange-business.com/fr) _(Fév. 2012 - Juin 2012)_ <br>
-- Développement d’un outil Web industriel de production et d’industrialisation.
-- Evolution de l’outil afin de le rendre plus robuste, plus ergonomique.
--  Mise en place de contrôle d’intégrité des données.
-- **_Technologies:_** Processus ITIL, PHP, JavaScript, Html/CSS, MySQL.<br><br>
+  - Développement d’un outil Web industriel de production et d’industrialisation.
+  - Evolution de l’outil afin de le rendre plus robuste, plus ergonomique.
+  - Mise en place de contrôle d’intégrité des données.
+  - **_Technologies:_** Processus ITIL, PHP, JavaScript, Html/CSS, MySQL.<br><br>
 
 ## 💬 Languages
 
