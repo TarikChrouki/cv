@@ -15,20 +15,20 @@ _9 ans d’expériences_
 
 **Senior Software Engineer** @ [mimacom](https://www.mimacom.com/fr/) _(Juil. 2020 - Present)_ <br>
 
->Ingénieur Logiciel pour [La Mobilière](https://www.mobiliere.ch)
+>***Ingénieur Logiciel*** pour [La Mobilière](https://www.mobiliere.ch)
 - Développement des composants ou des fonctionnalités nouvelles selon les différents besoins métier sous formes de micro-services.
 - Maintenance évolutive des applications existantes.
 - **_Technologies:_** Java 11, Spring boot, Apache Kafka, Schema registry, Docker, Scrum/SAFe, Kubernetes, Sprong data JPA, Flyway, Oracle, TreamCity, bitbucket, JIRA,
 Maven, JUnit
 
->Consultant Apache Kafka pour [Groupe Mutuel](https://www.groupemutuel.ch/)
+>***Consultant Apache Kafka*** pour [Groupe Mutuel](https://www.groupemutuel.ch/)
 - Réalisation des tests de performance et optimisation sur le cluster Kafka.
 - Mise en place de monitoring et alerte sur l’écosystème Kafka.
 - Développement d’un SDK et des utilitaires permettant l’intégration de Kafka chez les différents partenaires.
 - Mise en place d’une application de monitoring Kafka, avec intégration du SSO.
 - **_Technologies:_** Apache Kafka, Confluent, Docker, Java 11, Spring Boot, Spring Security, Maven, GitLab, Gitlab-CI, Apache Camel, Scrum
 
->Ingénieur Logiciel pour [Takeda USA](https://www.takeda.com/en-us/)
+>***Ingénieur Logiciel*** pour [Takeda USA](https://www.takeda.com/en-us/)
 - Réalisation d’un POC d’intégration du Flowable Engage pour Takeda USA.
 - Intégration du chatbot web de Flowable Engage avec Whatsapp et WeChat
 - **_Technologies:_** Flowable Engage, Java 8, Spring boot, React, Docker, Maven
