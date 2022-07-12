@@ -67,6 +67,7 @@ Maven, JUnit
   - Préparation et participation aux mises en production.
   - Chiffrage, Conception, et développement de demandes d’évolutions.
   - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Jaxb, Dozer, Solr,Ehcache, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript, Servlet, JSP.
+
 >***Lead Développeur JAVA JEE/Tapestry/Liferay.*** _(Juin 2014 - Mars 2015)_ pour [Groupe Damart (Fr/Uk/Us)](https://www.damart.fr/)<br>
   - Optimisation des performances Liferay du temps de réponse sur l’ensemble des sites Damart (Fr/Uk/Us).
   - Mise en place d’une application externe avec solr-web Liferay au lieu de lucene natif fourni par liferay.
@@ -74,6 +75,7 @@ Maven, JUnit
   - Support et conseils techniques aux équipes.
   - Chiffrage, Conception, et développement de demandes d’évolutions.
   - **_Technologies:_** Java, Liferay, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript.<br>
+
 >***Lead Développeur Java JEE/Tapestry.*** _(Jan. 2014 - Mai 2014)_ pour [Carrefour Belgique]()<br>
   - Refonte grapghique du site Carrefour Belgique Drive.
   - Migration des projets sur java7/tomcat7, avec une montée de version majeure des frameworks.
@@ -82,6 +84,7 @@ Maven, JUnit
   - Préparation et participation aux mises en production.
   - Chiffrage, Conception, et développement de demandes d’évolutions.
   - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Jenkins, Tomcat/Apache, Ajax, JavaScript, Servlet, JSP.<br>
+
 >***Développeur full-stack Java JEE/Tapestry.*** _(Sept. 2012 - Déc 2013)_ pour [Worldline Belgique]()<br>
   - Recueil du besoin client.
   - Chiffrage, Conception, et développement de demandes d’évolutions.
