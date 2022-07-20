@@ -7,6 +7,7 @@ _9 ans d’expériences_
 [Email](mailto:contact@chrouki.com) / [Website](https://chrouki.com/) / [LinkedIn](https://www.linkedin.com/in/tarikchrouki/) / [GitHub](https://github.com/tarikchrouki/) 
 
 ## 🏆 Certifications
+- Confluent Certified Administrator for Apache Kafka (CCAAK) [Confluent](https://www.credential.net/61d2299d-19e5-4b7a-b49f-122c3b5c6659)
 - Confluent Certified Developer for Apache Kafka (CCDAK) [Confluent](https://www.credential.net/286034aa-6505-4bd5-a7c5-468fae8b4621#gs.3kuzds)
 - GitLab Certified Associate [Gitlab](https://gitlab.badgr.com/public/assertions/bUe5saFBT8Souff7dtr89Q)
 - Apache Kafka Fundamentals [Confluent](https://www.credential.net/e596d6cc-7cb6-489b-a694-b2f18de4e97a#gs.3kv2n6)
