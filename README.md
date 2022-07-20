@@ -2,6 +2,7 @@
 
 _Senior Software Engineer Java/Kafka_ <br>
 _Confluent Certified Developer for Apache Kafka (CCDAK)_ <br>
+_Confluent Certified Administrator for Apache Kafka (CCAAK)_ <br>
 _9 ans d’expériences_
 
 [Email](mailto:contact@chrouki.com) / [Website](https://chrouki.com/) / [LinkedIn](https://www.linkedin.com/in/tarikchrouki/) / [GitHub](https://github.com/tarikchrouki/) 
