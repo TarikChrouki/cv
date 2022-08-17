@@ -19,8 +19,8 @@
  **Senior Software Engineer** @ [mimacom](https://www.mimacom.com/fr/) _(Jul. 2020 - Present)_ <br>
 
  >***Software Engineer*** for [La Mobilière](https://www.mobiliere.ch)
- - Development of components or new functionalities according to the different business needs in the form of micro-services.
- - Evolutionary maintenance of existing applications.
+ - Development of components or new features according to the different business needs as micro-services.
+ - Evolving maintenance of existing applications.
  - **_Technologies:_** Java 11, Spring boot, Apache Kafka, Schema registry, Docker, Scrum/SAFe, Kubernetes, Sprong data JPA, Flyway, Oracle, TreamCity, bitbucket, JIRA,
  Maven, JUnit
 
@@ -39,7 +39,7 @@
  <br>
 
  **Software Architect - Technical Lead Java/JEE, Angular at Lab Factory**<br> @[Orange](https://wholesalefrance.orange.fr/fr/) _(March 2019 - June 2020)_ <br>
-   - Collaborate with the various players from other departments (Architects, Infrastructure Manager, Project Managers, Product Owner, etc.) to understand the functional and technical context, in order to propose the most appropriate and sustainable technical solutions.
+   - Collaborate with different team members (Architects, Infrastructure Manager, Project Managers, Product Owner, etc.) to understand the functional and technical context, in order to propose the most appropriate and sustainable technical solutions.
    - Participate in the development and implementation of solutions, in particular on the sensitive phases of development as a technical referent.
    - Guarantee the technical quality and development of functionalities.
    - Support and technically supervise the development teams.
