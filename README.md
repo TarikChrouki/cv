@@ -1,3 +1,4 @@
+🇬🇧 [En](https://tarikchrouki.github.io/cv/en/) | 🇫🇷 [Fr](https://tarikchrouki.github.io/cv/fr/) 
 # Tarik Chrouki
 
 _Senior Software Engineer Java/Kafka_ <br>
