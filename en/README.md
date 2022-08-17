@@ -1,117 +1,117 @@
 # Tarik Chrouki
 
-_Senior Software Engineer Java/Kafka_ <br>
-_9 ans d’expériences_
+ _Senior Software Engineer Java/Kafka_ <br>
+ _9 years of experience_
 
-[Email](mailto:contact@chrouki.com) / [Website](https://chrouki.com/) / [LinkedIn](https://www.linkedin.com/in/tarikchrouki/) / [GitHub](https://github.com/tarikchrouki/) 
+ [Email](mailto:contact@chrouki.com) / [Website](https://chrouki.com/) / [LinkedIn](https://www.linkedin.com/in/tarikchrouki/) / [GitHub]  (https://github.com/tarikchrouki/)
 
-## 🏆 Certifications
-- Confluent Certified Administrator for Apache Kafka (CCAAK) [Confluent](https://www.credential.net/61d2299d-19e5-4b7a-b49f-122c3b5c6659)
-- Confluent Certified Developer for Apache Kafka (CCDAK) [Confluent](https://www.credential.net/286034aa-6505-4bd5-a7c5-468fae8b4621#gs.3kuzds)
-- Apache Kafka Fundamentals [Confluent](https://www.credential.net/e596d6cc-7cb6-489b-a694-b2f18de4e97a#gs.3kv2n6)
-- GitLab Certified Associate [Gitlab](https://gitlab.badgr.com/public/assertions/bUe5saFBT8Souff7dtr89Q)
-- Microsoft Certified: Azure Fundamentals [Microsoft](https://www.credly.com/badges/51c9ff32-bccb-48f0-8c03-86ddb43c0e14)
-- Microsoft Certified: Azure Data Fundamentals [Microsoft](https://www.credly.com/badges/b862d15a-beab-4355-a601-e66d51de1827)
-- Microsoft Certified: Security, Compliance, and Identity Fundamentals [Microsoft](https://www.credly.com/badges/f71499ca-e7e4-4bd5-a8ce-01cd62e43035)
+ ## 🏆 Certifications
+ - Confluent Certified Administrator for Apache Kafka (CCAAK) [Confluent](https://www.credential.net/61d2299d-19e5-4b7a-b49f-122c3b5c6659)
+ - Confluent Certified Developer for Apache Kafka (CCDAK) [Confluent](https://www.credential.net/286034aa-6505-4bd5-a7c5-468fae8b4621#gs.3kuzds)
+ - Apache Kafka Fundamentals [Confluent](https://www.credential.net/e596d6cc-7cb6-489b-a694-b2f18de4e97a#gs.3kv2n6)
+ - GitLab Certified Associate [Gitlab](https://gitlab.badgr.com/public/assertions/bUe5saFBT8Souff7dtr89Q)
+ - Microsoft Certified: Azure Fundamentals [Microsoft](https://www.credly.com/badges/51c9ff32-bccb-48f0-8c03-86ddb43c0e14)
+ - Microsoft Certified: Azure Data Fundamentals [Microsoft](https://www.credly.com/badges/b862d15a-beab-4355-a601-e66d51de1827)
+ - Microsoft Certified: Security, Compliance, and Identity Fundamentals [Microsoft](https://www.credly.com/badges/f71499ca-e7e4-4bd5-a8ce-01cd62e43035)
 
-## 👨‍💻 Expérience
+ ## 👨‍💻 Experience
 
-**Senior Software Engineer** @ [mimacom](https://www.mimacom.com/fr/) _(Juil. 2020 - Present)_ <br>
+ **Senior Software Engineer** @ [mimacom](https://www.mimacom.com/fr/) _(Jul. 2020 - Present)_ <br>
 
->***Ingénieur Logiciel*** pour [La Mobilière](https://www.mobiliere.ch)
-- Développement des composants ou des fonctionnalités nouvelles selon les différents besoins métier sous formes de micro-services.
-- Maintenance évolutive des applications existantes.
-- **_Technologies:_** Java 11, Spring boot, Apache Kafka, Schema registry, Docker, Scrum/SAFe, Kubernetes, Sprong data JPA, Flyway, Oracle, TreamCity, bitbucket, JIRA,
-Maven, JUnit
+ >***Software Engineer*** for [La Mobilière](https://www.mobiliere.ch)
+ - Development of components or new functionalities according to the different business needs in the form of micro-services.
+ - Evolutionary maintenance of existing applications.
+ - **_Technologies:_** Java 11, Spring boot, Apache Kafka, Schema registry, Docker, Scrum/SAFe, Kubernetes, Sprong data JPA, Flyway, Oracle, TreamCity, bitbucket, JIRA,
+ Maven, JUnit
 
->***Consultant Apache Kafka*** pour [Groupe Mutuel](https://www.groupemutuel.ch/)
-- Réalisation des tests de performance et optimisation sur le cluster Kafka.
-- Mise en place de monitoring et alerte sur l’écosystème Kafka.
-- Développement d’un SDK et des utilitaires permettant l’intégration de Kafka chez les différents partenaires.
-- Mise en place d’une application de monitoring Kafka, avec intégration du SSO.
-- **_Technologies:_** Apache Kafka, Confluent, Docker, Java 11, Spring Boot, Spring Security, Maven, GitLab, Gitlab-CI, Apache Camel, Scrum
+ >***Apache Kafka consultant*** for [Groupe Mutuel](https://www.groupemutuel.ch/)
+ - Realization of performance tests and optimization on the Kafka cluster.
+ - Implementation of monitoring and alert on the Kafka ecosystem.
+ - Development of an SDK and utilities allowing the integration of Kafka with the various partners.
+ - Implementation of a Kafka monitoring application, with SSO integration.
+ - **_Technologies:_** Apache Kafka, Confluent, Docker, Java 11, Spring Boot, Spring Security, Maven, GitLab, Gitlab-CI, Apache Camel, Scrum
 
->***Ingénieur Logiciel*** pour [Takeda USA](https://www.takeda.com/en-us/)
-- Réalisation d’un POC d’intégration du Flowable Engage pour Takeda USA.
-- Intégration du chatbot web de Flowable Engage avec Whatsapp et WeChat
-- **_Technologies:_** Flowable Engage, Java 8, Spring boot, React, Docker, Maven
+ >***Software Engineer*** for [Takeda USA](https://www.takeda.com/en-us/)
+ - Realization of a Flowable Engage integration POC for Takeda USA.
+ - Flowable Engage web chatbot integration with Whatsapp and WeChat
+ - **_Technologies:_** Flowable Engage, Java 8, Spring boot, React, Docker, Maven
 
-<br>
+ <br>
 
-**Architecte Logiciel - Technical Lead Java/JEE, Angular au Lab Factory**<br> @[Orange](https://wholesalefrance.orange.fr/fr/) _(Mars 2019 - Juin 2020)_ <br>
-  - Collaborer avec les différents acteurs des autres services (Architectes, Responsable Infrastructure, Chefs de projets, Product Owner...) pour appréhender le contexte fonctionnel et technique, afin de proposer les solutions techniques les plus adaptées et pérennes.
-  - Participer aux développements et à l’implémentation des solutions, notamment sur les phases sensibles du développement en tant que référent technique.
-  - Garantir la qualité technique et de développement des fonctionnalités.
-  - Accompagner et encadrer techniquement les équipes de développement.
-  - Assurer l’application des bonnes pratiques par les autres développeurs de l’équipe.
-  - Réaliser des revues de code.
-  - **_Technologies:_**  Angular 7, Java 8, Spring boot, Spring Data JPA, Spock , JUnit, Groovy, Maven, Hibernate 5, REST/SOAP, git, GitLab, Jenkins, Sonar, JCache/Ehcache 3.
-<br><br>
+ **Software Architect - Technical Lead Java/JEE, Angular at Lab Factory**<br> @[Orange](https://wholesalefrance.orange.fr/fr/) _(March 2019 - June 2020)_ <br>
+   - Collaborate with the various players from other departments (Architects, Infrastructure Manager, Project Managers, Product Owner, etc.) to understand the functional and technical context, in order to propose the most appropriate and sustainable technical solutions.
+   - Participate in the development and implementation of solutions, in particular on the sensitive phases of development as a technical referent.
+   - Guarantee the technical quality and development of functionalities.
+   - Support and technically supervise the development teams.
+   - Ensure the application of good practices by the other developers of the team.
+   - Perform code reviews.
+   - **_Technologies:_** Angular 7, Java 8, Spring boot, Spring Data JPA, Spock, JUnit, Groovy, Maven, Hibernate 5, REST/SOAP, git, GitLab, Jenkins, Sonar, JCache/Ehcache 3.
+ <br><br>
 
-**Ingénieur d'etudes et développements JAVA/J2EE, Groovy/Grails** <br>@[Webb Fontaine](https://webbfontaine.com/) _(Mai 2016 - Févr. 2019)_ <br>
+ **Design and development engineer JAVA/J2EE, Groovy/Grails** <br>@[Webb Fontaine](https://webbfontaine.com/) _(May 2016 - Feb. 2019)_ <br>
 
-  - Mise en place d'un cluster Apache Kafka sous docker pour gérer les échanges de messages entre différentes applications.
-  - Industrialisation et mise en place des tests fonctionnels avec Geb, Selenium, WebDriver et Docker.
-  - Conception, développement de demandes d’évolutions, des tests unitaires et d'intégration.
-  - Migration d'une application et plugins de Grails 2 à Grails 3.
-  - Mise en place d'une Api REST exposant du JSON et du XML.
-  - Lancement d'une nouvelle application basée sur Grails 3.
-  - **_Technologies:_**  Grails 3, Spring Boot, Apache Kafka, Docker, Java 8, Groovy, REST, JSON, Gradle, Oracle, H2, Spock, Geb, JasperReports/iReport, XML/XSD, Jaxb, Git, Clover, Sonar, TeamCity, Bootstrap 3 \& 2, Ajax, JQuery, JavaScript.
-    <br><br>
+   - Implementation of an Apache Kafka cluster under docker to manage message exchanges between different applications.
+   - Industrialization and implementation of functional tests with Geb, Selenium, WebDriver and Docker.
+   - Design, development of change requests, unit and integration tests.
+   - Migration of an application and plugins from Grails 2 to Grails 3.
+   - Implementation of a REST API exposing JSON and XML.
+   - Launch of a new application based on Grails 3.
+   - **_Technologies:_** Grails 3, Spring Boot, Apache Kafka, Docker, Java 8, Groovy, REST, JSON, Gradle, Oracle, H2, Spock, Geb, JasperReports/iReport, XML/XSD, Jaxb, Git,  Clover, Sonar, TeamCity, Bootstrap 3 \& 2, Ajax, JQuery, JavaScript.
+     <br><br>
 
-**Lead Developer/Référent Technique JAVA JEE** <br>@[Worldline Global](https://fr.worldline.com/) _(Sept. 2012 - Avril 2016)_ <br>
+**Lead Developer/Technical Referent JAVA JEE** <br>@[Worldline Global](https://fr.worldline.com/) _(Sept. 2012 - April 2016)_ <br>
 
->***Lead Développeur/Référent Technique JAVA JEE/Tapestry.*** _(Avr. 2015 - Avr. 2016)_ pour [Carrefour](https://www.carrefour.fr/)
-  - Prise en charge d’une équipe de 4 à 10 développeurs pour : Formation, accompagnement technique, revue de code et organisation de bilans techniques suite aux releases réalisées.
-  - Implémentation de la gestion de cagnotte fidélité pendant les étapes du processus de paiement de la commande.
-  - Mise en place de gestion des coupons sur l’application frontale et back-office, en se basant sur un bridge de communication avec un moteur de règles.
-  - Accompagnement et conseils techniques aux équipes.
-  - Revue de code, Gestion des performances et optimisations.
-  - Préparation et participation aux mises en production.
-  - Chiffrage, Conception, et développement de demandes d’évolutions.
-  - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Jaxb, Dozer, Solr,Ehcache, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript, Servlet, JSP.
+ >***Lead Developer/Technical Referent JAVA JEE/Tapestry.*** _(Apr. 2015 - Apr. 2016)_ for [Carrefour](https://www.carrefour.fr/)
+   - Support for a team of 4 to 10 developers for: Training, technical support, code review and organization of technical assessments following the releases carried out.
+   - Implementation of loyalty kitty management during the steps of the order payment process.
+   - Implementation of coupon management on the front and back-office application, based on a communication bridge with a rules engine.
+   - Support and technical advice to the teams.
+   - Code review, performance management and optimizations.
+   - Preparation and participation in production releases.
+   - Costing, Design, and development of change requests.
+   - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Jaxb, Dozer, Solr, Ehcache, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript, Servlet, JSP.
 
->***Lead Développeur JAVA JEE/Tapestry/Liferay.*** _(Juin 2014 - Mars 2015)_ pour [Groupe Damart (Fr/Uk/Us)](https://www.damart.fr/)<br>
-  - Optimisation des performances Liferay du temps de réponse sur l’ensemble des sites Damart (Fr/Uk/Us).
-  - Mise en place d’une application externe avec solr-web Liferay au lieu de lucene natif fourni par liferay.
-  - Développement de la gestion de paiement avec les différents partenaires selon le choix de paiement et le site.
-  - Support et conseils techniques aux équipes.
-  - Chiffrage, Conception, et développement de demandes d’évolutions.
-  - **_Technologies:_** Java, Liferay, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript.<br>
+ >***Lead Developer JAVA JEE/Tapestry/Liferay.*** _(June 2014 - March 2015)_ for [Groupe Damart (Fr/Uk/Us)](https://www.damart.fr/)<  br>
+   - Optimization of Liferay response time performance on all Damart sites (Fr/Uk/Us).
+   - Implementation of an external application with solr-web Liferay instead of native lucene provided by liferay.
+   - Development of payment management with the different partners according to the choice of payment and the site.
+   - Support and technical advice to the teams.
+   - Costing, Design, and development of change requests.
+   - **_Technologies:_** Java, Liferay, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript.<br>
 
->***Lead Développeur Java JEE/Tapestry.*** _(Jan. 2014 - Mai 2014)_ pour [Carrefour Belgique]()<br>
-  - Refonte grapghique du site Carrefour Belgique Drive.
-  - Migration des projets sur java7/tomcat7, avec une montée de version majeure des frameworks.
-  - Conception d’un nouveau site e-commerce dédiée pour la coupe du monde de football en se basant sur un Core Model.
-  - Support et conseils techniques aux équipes.
-  - Préparation et participation aux mises en production.
-  - Chiffrage, Conception, et développement de demandes d’évolutions.
-  - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Jenkins, Tomcat/Apache, Ajax, JavaScript, Servlet, JSP.<br>
+ >***Lead Java JEE/Tapestry Developer.*** _(Jan. 2014 - May 2014)_ for [Carrefour Belgium]()<br>
+   - Graphical redesign of the Carrefour Belgique Drive site.
+   - Migration of projects to java7/tomcat7, with a major upgrade of frameworks.
+   - Design of a new e-commerce site dedicated to the football world cup based on a Core Model.
+   - Support and technical advice to the teams.
+   - Preparation and participation in production releases.
+   - Costing, Design, and development of change requests.
+   - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Solr, Maven, SVN, Jenkins, Tomcat/Apache, Ajax, JavaScript, Servlet, JSP.<br>
 
->***Développeur full-stack Java JEE/Tapestry.*** _(Sept. 2012 - Déc 2013)_ pour [Worldline Belgique]()<br>
-  - Recueil du besoin client.
-  - Chiffrage, Conception, et développement de demandes d’évolutions.
-  - Rédaction des livrables (spécifications, cahier de recettes, etc.)
-  - Préparation et participation aux mises en production.
-  - Gestion des phases de recettes.
-  - **_Technologies:_** Java, JavaScript, Tapestry, Hibernate, MySql, Maven, SVN, CVS, JasperReports/iReport, Jenkins, Tomcat/Apache, Ajax, JavaScript, Servlet, JSP.
+ >***Full-stack Java JEE/Tapestry developer.*** _(Sept. 2012 - Dec 2013)_ for [Worldline Belgium]()<br>
+   - Collection of customer needs.
+   - Costing, Design, and development of change requests.
+   - Drafting of deliverables (specifications, recipe book, etc.)
+   - Preparation and participation in production releases.
+   - Management of acceptance phases.
+   - **_Technologies:_** Java, JavaScript, Tapestry, Hibernate, MySql, Maven, SVN, CVS, JasperReports/iReport, Jenkins, Tomcat/Apache, Ajax, JavaScript, Servlet, JSP.
 
-<br>
+ <br>
 
-**Développeur PHP** <br>@[Orange Business Service](https://www.orange-business.com/fr) _(Fév. 2012 - Juin 2012)_ <br>
-  - Développement d’un outil Web industriel de production et d’industrialisation.
-  - Evolution de l’outil afin de le rendre plus robuste, plus ergonomique.
-  - Mise en place de contrôle d’intégrité des données.
-  - **_Technologies:_** Processus ITIL, PHP, JavaScript, Html/CSS, MySQL.<br><br>
+ **PHP Developer** <br>@[Orange Business Service](https://www.orange-business.com/fr) _(Feb. 2012 - June 2012)_ <br>
+   - Development of an industrial Web tool for production and industrialization.
+   - Evolution of the tool in order to make it more robust, more ergonomic.
+   - Implementation of data integrity checks.
+   - **_Technologies:_** ITIL process, PHP, JavaScript, Html/CSS, MySQL.<br><br>
 
-## 💬 Languages
+ ## 💬 Languages
 
-**Anglais**: Intermédiaire <br>
-**Français**: Maternelle <br>
-**Arabe**: Maternelle
-<br><br>
+ **English**: Intermediate <br>
+ **French**: Kindergarten <br>
+ **Arabic**: Kindergarten
+ <br><br>
 
-## 👨‍🎓 Formations
+ ## 👨‍🎓 Trainings
 
-**Diplôme d’ingénieur en informatique** École Nationale d’Ingénieurs de Brest<br>
-[ENIB](https://www.enib.fr/fr/) - Brest,France. _(2010 - 2013)_ <br>
+ **Engineering diploma in computer science** National School of Engineers of Brest<br>
+ [ENIB](https://www.enib.fr/fr/) - Brest, France.  _(2010 - 2013)_ <br>
