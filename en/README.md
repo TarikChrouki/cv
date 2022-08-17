@@ -3,7 +3,7 @@
  _Senior Software Engineer Java/Kafka_ <br>
  _9 years of experience_
 
- [Email](mailto:contact@chrouki.com) / [Website](https://chrouki.com/) / [LinkedIn](https://www.linkedin.com/in/tarikchrouki/) / [GitHub]  (https://github.com/tarikchrouki/)
+ [Email](mailto:contact@chrouki.com) / [Website](https://chrouki.com/) / [LinkedIn](https://www.linkedin.com/in/tarikchrouki/) / [GitHub](https://github.com/tarikchrouki/)
 
  ## 🏆 Certifications
  - Confluent Certified Administrator for Apache Kafka (CCAAK) [Confluent](https://www.credential.net/61d2299d-19e5-4b7a-b49f-122c3b5c6659)
@@ -71,7 +71,7 @@
    - Costing, Design, and development of change requests.
    - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Jaxb, Dozer, Solr, Ehcache, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript, Servlet, JSP.
 
- >***Lead Developer JAVA JEE/Tapestry/Liferay.*** _(June 2014 - March 2015)_ for [Groupe Damart (Fr/Uk/Us)](https://www.damart.fr/)<  br>
+ >***Lead Developer JAVA JEE/Tapestry/Liferay.*** _(June 2014 - March 2015)_ for [Groupe Damart (Fr/Uk/Us)](https://www.damart.fr/)<br>
    - Optimization of Liferay response time performance on all Damart sites (Fr/Uk/Us).
    - Implementation of an external application with solr-web Liferay instead of native lucene provided by liferay.
    - Development of payment management with the different partners according to the choice of payment and the site.
@@ -106,9 +106,8 @@
 
  ## 💬 Languages
 
- **English**: Intermediate <br>
- **French**: Kindergarten <br>
- **Arabic**: Kindergarten
+ **English**: Full professional <br>
+ **French**: Native
  <br><br>
 
  ## 👨‍🎓 Trainings
