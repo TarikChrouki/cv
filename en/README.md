@@ -1,3 +1,4 @@
+🇬🇧 [EN]() | 🇫🇷 [FR](https://tarikchrouki.github.io/cv/fr/)
 # Tarik Chrouki
 
  _Senior Software Engineer Java/Kafka_ <br>
@@ -5,7 +6,7 @@
 
  [Email](mailto:contact@chrouki.com) / [Website](https://chrouki.com/) / [LinkedIn](https://www.linkedin.com/in/tarikchrouki/) / [GitHub](https://github.com/tarikchrouki/)
 
- ## 🏆 Certifications
+## 🏆 Certifications
  - Confluent Certified Administrator for Apache Kafka (CCAAK) [Confluent](https://www.credential.net/61d2299d-19e5-4b7a-b49f-122c3b5c6659)
  - Confluent Certified Developer for Apache Kafka (CCDAK) [Confluent](https://www.credential.net/286034aa-6505-4bd5-a7c5-468fae8b4621#gs.3kuzds)
  - Apache Kafka Fundamentals [Confluent](https://www.credential.net/e596d6cc-7cb6-489b-a694-b2f18de4e97a#gs.3kv2n6)
@@ -14,7 +15,7 @@
  - Microsoft Certified: Azure Data Fundamentals [Microsoft](https://www.credly.com/badges/b862d15a-beab-4355-a601-e66d51de1827)
  - Microsoft Certified: Security, Compliance, and Identity Fundamentals [Microsoft](https://www.credly.com/badges/f71499ca-e7e4-4bd5-a8ce-01cd62e43035)
 
- ## 👨‍💻 Experience
+## 👨‍💻 Experience
 
  **Senior Software Engineer** @ [mimacom](https://www.mimacom.com/fr/) _(Jul. 2020 - Present)_ <br>
 
@@ -25,14 +26,14 @@
  Maven, JUnit
 
  >***Apache Kafka consultant*** for [Groupe Mutuel](https://www.groupemutuel.ch/)
- - Realization of performance tests and optimization on the Kafka cluster.
+ - Performance testing and optimization on the Kafka cluster.
  - Implementation of monitoring and alert on the Kafka ecosystem.
  - Development of an SDK and utilities allowing the integration of Kafka with the various partners.
  - Implementation of a Kafka monitoring application, with SSO integration.
  - **_Technologies:_** Apache Kafka, Confluent, Docker, Java 11, Spring Boot, Spring Security, Maven, GitLab, Gitlab-CI, Apache Camel, Scrum
 
  >***Software Engineer*** for [Takeda USA](https://www.takeda.com/en-us/)
- - Realization of a Flowable Engage integration POC for Takeda USA.
+ - Development of a POC of Flowable engage for Takeda USA.
  - Flowable Engage web chatbot integration with Whatsapp and WeChat
  - **_Technologies:_** Flowable Engage, Java 8, Spring boot, React, Docker, Maven
 
@@ -62,11 +63,11 @@
 **Lead Developer/Technical Referent JAVA JEE** <br>@[Worldline Global](https://fr.worldline.com/) _(Sept. 2012 - April 2016)_ <br>
 
  >***Lead Developer/Technical Referent JAVA JEE/Tapestry.*** _(Apr. 2015 - Apr. 2016)_ for [Carrefour](https://www.carrefour.fr/)
-   - Support for a team of 4 to 10 developers for: Training, technical support, code review and organization of technical assessments following the releases carried out.
+   - Managing a team of 4 to 10 developers for : Training, technical assistance, code review, and organization of technical assessment according to the release made.
    - Implementation of loyalty kitty management during the steps of the order payment process.
    - Implementation of coupon management on the front and back-office application, based on a communication bridge with a rules engine.
-   - Support and technical advice to the teams.
-   - Code review, performance management and optimizations.
+   - Technical advice and assistance to the teams.
+   - Code review,pPerformance optimization.
    - Preparation and participation in production releases.
    - Costing, Design, and development of change requests.
    - **_Technologies:_** Java, Spring, Hibernate, Tapestry, MySql, Jaxb, Dozer, Solr, Ehcache, Maven, SVN, Sonar, Jenkins, Tomcat/apache, Ajax, JavaScript, Servlet, JSP.
@@ -104,13 +105,13 @@
    - Implementation of data integrity checks.
    - **_Technologies:_** ITIL process, PHP, JavaScript, Html/CSS, MySQL.<br><br>
 
- ## 💬 Languages
+## 💬 Languages
 
  **English**: Full professional <br>
  **French**: Native
  <br><br>
 
- ## 👨‍🎓 Trainings
+## 👨‍🎓 Trainings
 
  **Engineering diploma in computer science** National School of Engineers of Brest<br>
  [ENIB](https://www.enib.fr/fr/) - Brest, France.  _(2010 - 2013)_ <br>
