@@ -6,6 +6,7 @@ _9 ans d’expériences_
 
 📱 +41 78 212 93 05 <br/>
 ✉️ [tarik.chrouki@gmail.com](mailto:tarik.chrouki@gmail.com)<br/>
+🏠 Lausanne, Suisse <br/> 
 <br/>
 [Website](https://chrouki.com/) / [LinkedIn](https://www.linkedin.com/in/tarikchrouki/) / [GitHub](https://github.com/tarikchrouki/)
 
