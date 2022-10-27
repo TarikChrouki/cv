@@ -2,7 +2,7 @@
 # Tarik Chrouki
 
 _Senior Software Engineer Java/Kafka_ <br>
-_9 ans d’expériences_
+_10 ans d’expériences_
 
 📱 +41 78 212 93 05 <br/>
 ✉️ [tarik.chrouki@gmail.com](mailto:tarik.chrouki@gmail.com)<br/>
