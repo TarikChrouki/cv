@@ -23,6 +23,10 @@ _9 ans d’expériences_
 
 **Senior Software Engineer** @ [mimacom](https://www.mimacom.com/fr/) _(Juil. 2020 - Present)_ <br>
 
+>***Référent Kafka*** pour [EFG](https://www.efginternational.com/fr/ch.html)
+- Support pour l'installation des composants Confluent avec le playbook CP-Ansible. 
+- Configuration des Kafka brokers avec mutual TLS (mTLS) authentication
+
 >***Ingénieur Logiciel*** pour [La Mobilière](https://www.mobiliere.ch)
 - Développement des composants ou des fonctionnalités nouvelles selon les différents besoins métier sous formes de micro-services.
 - Maintenance évolutive des applications existantes.
